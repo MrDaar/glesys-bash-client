@@ -79,10 +79,10 @@ EOF
         fi
 
         if [ -f $options ]; then
-            source "$options" 2>&1 >/dev/null
+            source "$options"
         fi
         if [ -f $template ]; then
-            api_post_data="$(source $template)"
+            api_post_data="$(source "$template")"
         fi
     fi
 
