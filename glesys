@@ -93,7 +93,7 @@ EOF
             echo "${__file} send $url $options $template"
             echo
             echo 'REQUEST:'
-            echo "curl -X POST -H \"$api_content_type\" -k --basic -u $api_auth -d $api_post_data $api_base_url$url"
+            echo "curl -X POST -H \"$api_content_type\" -k --basic -u $api_auth -d \"$api_post_data\" $api_base_url$url"
             ;;
         "send")
             if [[ $are_you_sure == "Y" ]]; then
@@ -107,7 +107,7 @@ EOF
                     -H "$api_content_type" \
                     -k --basic \
                     -u $api_auth \
-                    -d $api_post_data \
+                    -d "$api_post_data" \
                     $api_base_url$url
                 echo
             else
