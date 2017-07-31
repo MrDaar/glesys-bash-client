@@ -1,0 +1,13 @@
+# domain/setautorenew
+
+cat << EOF
+{
+    "domainname": "$domainname",
+    "autorenew": "$autorenew"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Activate/deactivate autorenewal for a domain.

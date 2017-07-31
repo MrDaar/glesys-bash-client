@@ -1,0 +1,10 @@
+# livechat/postmessage
+
+sessionid=""
+sessionkey=""
+message=""
+
+# No optional arguments for this request.
+
+# Description:
+# Posts a message to the current session.

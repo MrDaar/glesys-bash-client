@@ -1,0 +1,14 @@
+# server/mountiso
+
+cat << EOF
+{
+    "serverid": "$serverid"
+}
+EOF
+
+# Optional arguments:
+# "isofile": "$isofile",
+
+# Description:
+# Mount one of the isos listed in server/listiso on a virtual machine
+# This currently only supports vmware-servers.

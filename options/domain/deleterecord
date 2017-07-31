@@ -1,0 +1,9 @@
+# domain/deleterecord
+
+recordid=""
+
+# No optional arguments for this request.
+
+# Description:
+# Removes a dns record from a domain
+# Get the recordid from domain/listrecords

@@ -1,0 +1,9 @@
+# livechat/sessioninfo
+
+sessionid=""
+sessionkey=""
+
+# No optional arguments for this request.
+
+# Description:
+# This function can be used to know if the current session is active or not.

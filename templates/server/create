@@ -1,0 +1,27 @@
+# server/create
+
+cat << EOF
+{
+    "datacenter": "$datacenter",
+    "platform": "$platform",
+    "hostname": "$hostname",
+    "templatename": "$templatename",
+    "disksize": "$disksize",
+    "memorysize": "$memorysize",
+    "cpucores": "$cpucores"
+}
+EOF
+
+# Optional arguments:
+# "description": "$description",
+# "ip": "$ip",
+# "ipv6": "$ipv6",
+# "transfer": "$transfer",
+# "bandwidth": "$bandwidth",
+# "campaigncode": "$campaigncode",
+# "sshkeyids": "$sshkeyids",
+# "sshkey": "$sshkey",
+# "rootpassword": "$rootpassword",
+
+# Description:
+# Create a new virtual server.

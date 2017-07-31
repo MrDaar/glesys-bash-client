@@ -1,0 +1,19 @@
+# domain/edit
+
+cat << EOF
+{
+    "domainname": "$domainname"
+}
+EOF
+
+# Optional arguments:
+# "primarynameserver": "$primarynameserver",
+# "responsibleperson": "$responsibleperson",
+# "ttl": "$ttl",
+# "refresh": "$refresh",
+# "retry": "$retry",
+# "expire": "$expire",
+# "minimum": "$minimum",
+
+# Description:
+# Edit soa for a domain in our dns-system

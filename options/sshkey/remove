@@ -1,0 +1,8 @@
+# sshkey/remove
+
+sshkeyids=""
+
+# No optional arguments for this request.
+
+# Description:
+# Remove specified sshkey.

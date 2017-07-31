@@ -1,0 +1,14 @@
+# user/enabletwofactor
+
+cat << EOF
+{
+    "method": "$method",
+    "secret": "$secret",
+    "verification": "$verification"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Enable twofactor authentication for the currently logged in user.

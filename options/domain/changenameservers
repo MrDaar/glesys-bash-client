@@ -1,0 +1,13 @@
+# domain/changenameservers
+
+domainname=""
+ns1=""
+ns2=""
+
+# Optional arguments:
+# ns3=""
+# ns4=""
+
+# Description:
+# Change nameservers for a domain
+# Check the registrarinfo field in domain/details to know if this can be done for a domain.

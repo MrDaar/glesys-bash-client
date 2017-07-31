@@ -1,0 +1,10 @@
+# invoice/billingperiod
+
+# No required arguments for this request.
+
+# Optional arguments:
+# account=""
+# interval=""
+
+# Description:
+# Change the billing period of this account or another account on this customer.

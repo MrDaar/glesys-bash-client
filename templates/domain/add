@@ -1,0 +1,21 @@
+# domain/add
+
+cat << EOF
+{
+    "domainname": "$domainname"
+}
+EOF
+
+# Optional arguments:
+# "primarynameserver": "$primarynameserver",
+# "responsibleperson": "$responsibleperson",
+# "ttl": "$ttl",
+# "refresh": "$refresh",
+# "retry": "$retry",
+# "expire": "$expire",
+# "minimum": "$minimum",
+# "createrecords": "$createrecords",
+
+# Description:
+# Add a domain to our dns-system
+# Some default records will be created on the domain.

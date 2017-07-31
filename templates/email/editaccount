@@ -1,0 +1,20 @@
+# email/editaccount
+
+cat << EOF
+{
+    "emailaccount": "$emailaccount"
+}
+EOF
+
+# Optional arguments:
+# "antispamlevel": "$antispamlevel",
+# "antivirus": "$antivirus",
+# "password": "$password",
+# "autorespond": "$autorespond",
+# "autorespondsaveemail": "$autorespondsaveemail",
+# "autorespondmessage": "$autorespondmessage",
+# "quota": "$quota",
+# "rejectspam": "$rejectspam",
+
+# Description:
+# Edit an email account and change things like quota, password, autoresponse and antispam level.

@@ -1,0 +1,8 @@
+# user/removephonenumber
+
+id=""
+
+# No optional arguments for this request.
+
+# Description:
+# Remove a phonenumber from the user.

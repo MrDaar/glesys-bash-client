@@ -1,0 +1,13 @@
+api_base_url="https://api.glesys.com/"
+api_user="CL_____"
+api_key="XxxXXXXXxxxxxXxXXxxXXXXxxxxXXxxXx"
+api_auth="$api_user:$api_key"
+api_content_type="Content-Type: application/json"
+
+# To add an ssh key to a server if you're doing server/create.
+sshkey="ssh-rsa XxxXXXXXxxxxxXxXXxxXXXXxxxxXXxxXx user@host"
+
+# Required field but removed if you run "passwd root -d" after server set up. I think...
+rootpassword="1234"
+
+description="Created through API by $USER@$HOSTNAME"

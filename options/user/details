@@ -1,0 +1,9 @@
+# user/details
+
+# No required arguments for this request.
+
+# No optional arguments for this request.
+
+# Description:
+# Get information about the currently logged in user
+# Username, name, twofactor method and more.

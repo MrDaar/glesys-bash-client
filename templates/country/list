@@ -1,0 +1,12 @@
+# country/list
+
+cat << EOF
+{}
+EOF
+
+# Optional arguments:
+# "eumembers": "$eumembers",
+
+# Description:
+# Fetch a list of all known countries and territories
+# Optional boolean

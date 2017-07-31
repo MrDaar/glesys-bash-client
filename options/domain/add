@@ -1,0 +1,17 @@
+# domain/add
+
+domainname=""
+
+# Optional arguments:
+# primarynameserver=""
+# responsibleperson=""
+# ttl=""
+# refresh=""
+# retry=""
+# expire=""
+# minimum=""
+# createrecords=""
+
+# Description:
+# Add a domain to our dns-system
+# Some default records will be created on the domain.

@@ -1,0 +1,12 @@
+# server/stop
+
+serverid=""
+
+# Optional arguments:
+# type=""
+# transactionstarttime=""
+
+# Description:
+# Shutdown, power off or reboot a server
+# Not all shutdown types are supported on all platforms
+# Only Xen supports a hard power off.

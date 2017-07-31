@@ -1,0 +1,16 @@
+# server/clone
+
+serverid=""
+hostname=""
+
+# Optional arguments:
+# disksize=""
+# memorysize=""
+# cpucores=""
+# transfer=""
+# bandwidth=""
+# description=""
+# datacenter=""
+
+# Description:
+# Create an copy (clone) of another server.

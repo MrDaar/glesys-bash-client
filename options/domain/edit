@@ -1,0 +1,15 @@
+# domain/edit
+
+domainname=""
+
+# Optional arguments:
+# primarynameserver=""
+# responsibleperson=""
+# ttl=""
+# refresh=""
+# retry=""
+# expire=""
+# minimum=""
+
+# Description:
+# Edit soa for a domain in our dns-system

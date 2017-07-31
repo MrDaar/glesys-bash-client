@@ -1,0 +1,10 @@
+# domain/delete
+
+domainname=""
+
+# Optional arguments:
+# forcedeleteemail=""
+
+# Description:
+# letes a domain from the dns system
+# By default, you will get an error message if

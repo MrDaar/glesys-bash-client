@@ -1,0 +1,23 @@
+# server/create
+
+datacenter=""
+platform=""
+hostname=""
+templatename=""
+disksize=""
+memorysize=""
+cpucores=""
+
+# Optional arguments:
+# description=""
+# ip=""
+# ipv6=""
+# transfer=""
+# bandwidth=""
+# campaigncode=""
+# sshkeyids=""
+# sshkey=""
+# rootpassword=""
+
+# Description:
+# Create a new virtual server.

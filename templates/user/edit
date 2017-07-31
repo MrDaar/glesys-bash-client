@@ -1,0 +1,11 @@
+# user/edit
+
+cat << EOF
+{}
+EOF
+
+# Optional arguments:
+# "name": "$name",
+
+# Description:
+# Update information about the current user.

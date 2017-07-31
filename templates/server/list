@@ -1,0 +1,10 @@
+# server/list
+
+cat << EOF
+{}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Get a list of all servers on this account.

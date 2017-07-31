@@ -1,0 +1,14 @@
+# ip/setptr
+
+cat << EOF
+{
+    "ipaddress": "$ipaddress",
+    "data": "$data"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Sets PTR data for an IP
+# Use ip/listown or ip/details to get current PTR data

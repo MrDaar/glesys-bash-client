@@ -1,0 +1,11 @@
+# archive/create
+
+username=""
+password=""
+size=""
+
+# No optional arguments for this request.
+
+# Description:
+# Create a new backup volume
+# Size is in gigabytes.

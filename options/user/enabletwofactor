@@ -1,0 +1,10 @@
+# user/enabletwofactor
+
+method=""
+secret=""
+verification=""
+
+# No optional arguments for this request.
+
+# Description:
+# Enable twofactor authentication for the currently logged in user.

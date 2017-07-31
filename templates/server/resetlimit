@@ -1,0 +1,14 @@
+# server/resetlimit
+
+cat << EOF
+{
+    "serverid": "$serverid",
+    "type": "$type"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Only for OpenVZ
+# Resets the failcount

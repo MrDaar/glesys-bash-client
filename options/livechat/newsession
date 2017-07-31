@@ -1,0 +1,9 @@
+# livechat/newsession
+
+name=""
+
+# No optional arguments for this request.
+
+# Description:
+# Creates a new livechat session
+# You will get a sessionid and a sessionkey back,

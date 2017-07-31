@@ -1,0 +1,8 @@
+# networkadapter/delete
+
+networkadapterid=""
+
+# No optional arguments for this request.
+
+# Description:
+# lete a network adapter.

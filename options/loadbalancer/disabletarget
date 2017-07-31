@@ -1,0 +1,11 @@
+# loadbalancer/disabletarget
+
+loadbalancerid=""
+backendname=""
+targetname=""
+
+# No optional arguments for this request.
+
+# Description:
+# ables specified target
+# A disabled target will NOT recive any traffic

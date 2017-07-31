@@ -1,0 +1,10 @@
+# vpn/createuser
+
+username=""
+password=""
+
+# No optional arguments for this request.
+
+# Description:
+# Create a new vpn-user
+# Usernames has to be prefixed with your accountname, ex: clxxxxx_vpnuser.

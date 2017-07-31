@@ -1,0 +1,9 @@
+# server/destroy
+
+serverid=""
+keepip=""
+
+# No optional arguments for this request.
+
+# Description:
+# y a server and remove all files

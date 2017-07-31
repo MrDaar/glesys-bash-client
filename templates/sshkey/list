@@ -1,0 +1,10 @@
+# sshkey/list
+
+cat << EOF
+{}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# List your saved sshkeys.

@@ -1,0 +1,13 @@
+# sshkey/add
+
+cat << EOF
+{
+    "sshkey": "$sshkey",
+    "description": "$description"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Add public sshkey to your account which can be used when deploying new servers.

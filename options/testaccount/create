@@ -1,0 +1,8 @@
+# testaccount/create
+
+# No required arguments for this request.
+
+# No optional arguments for this request.
+
+# Description:
+# Create a new testaccount for the currently logged in user.

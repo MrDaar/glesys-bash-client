@@ -1,0 +1,11 @@
+# livechat/getmessages
+
+sessionid=""
+sessionkey=""
+
+# Optional arguments:
+# onlynew=""
+
+# Description:
+# Gets all messages in the current chat session
+# If you set the optional parameter

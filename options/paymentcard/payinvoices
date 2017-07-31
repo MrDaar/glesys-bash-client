@@ -1,0 +1,9 @@
+# paymentcard/payinvoices
+
+invoicenumbers=""
+paymentcardid=""
+
+# No optional arguments for this request.
+
+# Description:
+# Pay one (or more) invoices with an payment card

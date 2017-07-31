@@ -1,0 +1,13 @@
+# loadbalancer/create
+
+name=""
+datacenter=""
+
+# Optional arguments:
+# ip=""
+# ipv6=""
+
+# Description:
+# Creates a new loadbalancer instance
+# Not supplying an ip or the string 'any' will result in one being randomly assigned
+# 'none' can be used in place of an ip to not assign one.

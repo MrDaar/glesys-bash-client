@@ -1,0 +1,11 @@
+# server/addiso
+
+archiveusername=""
+archivepassword=""
+archivepath=""
+
+# No optional arguments for this request.
+
+# Description:
+# Add a iso for future usage with server/mountiso
+# Upload the iso to an GleSYS archive volume and provide the path to the iso together with the username and password to the archive volume.

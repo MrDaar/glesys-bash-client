@@ -1,0 +1,14 @@
+# networkadapter/edit
+
+cat << EOF
+{
+    "networkadapterid": "$networkadapterid"
+}
+EOF
+
+# Optional arguments:
+# "bandwidth": "$bandwidth",
+# "networkid": "$networkid",
+
+# Description:
+# Edit a network adapter.

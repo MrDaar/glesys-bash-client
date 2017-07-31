@@ -1,0 +1,17 @@
+# domain/changenameservers
+
+cat << EOF
+{
+    "domainname": "$domainname",
+    "ns1": "$ns1",
+    "ns2": "$ns2"
+}
+EOF
+
+# Optional arguments:
+# "ns3": "$ns3",
+# "ns4": "$ns4",
+
+# Description:
+# Change nameservers for a domain
+# Check the registrarinfo field in domain/details to know if this can be done for a domain.

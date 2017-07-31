@@ -1,0 +1,13 @@
+# email/quota
+
+cat << EOF
+{
+    "emailaccount": "$emailaccount"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Gets quota information about an account
+# How much is being used and how much is available.

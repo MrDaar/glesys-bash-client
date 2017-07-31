@@ -1,0 +1,9 @@
+# loadbalancer/addtoblacklist
+
+loadbalancerid=""
+prefix=""
+
+# No optional arguments for this request.
+
+# Description:
+# Blocks ip or prefix from access any url on the loadbalancer

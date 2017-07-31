@@ -1,0 +1,14 @@
+# ip/remove
+
+cat << EOF
+{
+    "ipaddress": "$ipaddress"
+}
+EOF
+
+# Optional arguments:
+# "release": "$release",
+
+# Description:
+# Remove an ip from a server
+# This does not

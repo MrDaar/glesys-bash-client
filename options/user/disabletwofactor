@@ -1,0 +1,9 @@
+# user/disabletwofactor
+
+password=""
+otp=""
+
+# No optional arguments for this request.
+
+# Description:
+# able twofactor authentication for the currently logged in user.

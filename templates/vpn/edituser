@@ -1,0 +1,14 @@
+# vpn/edituser
+
+cat << EOF
+{
+    "username": "$username"
+}
+EOF
+
+# Optional arguments:
+# "password": "$password",
+# "enabled": "$enabled",
+
+# Description:
+# Enable/disable and change password for an vpn-user.

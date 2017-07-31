@@ -1,0 +1,23 @@
+# customer/contactinfo
+
+# No required arguments for this request.
+
+# Optional arguments:
+# companyname=""
+# contactperson=""
+# invoicereference=""
+# address=""
+# zipcode=""
+# city=""
+# country=""
+# nationalidnumber=""
+# phonenumber=""
+# email=""
+# invoiceaddress=""
+# invoicezipcode=""
+# invoicecity=""
+# invoicecountry=""
+# separateinvoiceaddress=""
+
+# Description:
+# List and change contact and invoicing information about this customer.

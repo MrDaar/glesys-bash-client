@@ -1,0 +1,14 @@
+# invoice/settings
+
+cat << EOF
+{}
+EOF
+
+# Optional arguments:
+# "invoicemethod": "$invoicemethod",
+# "invoiceemailaddress": "$invoiceemailaddress",
+# "vatnumber": "$vatnumber",
+# "paymentdays": "$paymentdays",
+
+# Description:
+# Change invoice method and invoice email address.

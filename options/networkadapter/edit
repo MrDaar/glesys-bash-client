@@ -1,0 +1,10 @@
+# networkadapter/edit
+
+networkadapterid=""
+
+# Optional arguments:
+# bandwidth=""
+# networkid=""
+
+# Description:
+# Edit a network adapter.

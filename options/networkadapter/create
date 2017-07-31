@@ -1,0 +1,11 @@
+# networkadapter/create
+
+serverid=""
+
+# Optional arguments:
+# bandwidth=""
+# adaptertype=""
+# networkid=""
+
+# Description:
+# Create a network adapter.

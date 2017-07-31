@@ -1,0 +1,15 @@
+# networkadapter/create
+
+cat << EOF
+{
+    "serverid": "$serverid"
+}
+EOF
+
+# Optional arguments:
+# "bandwidth": "$bandwidth",
+# "adaptertype": "$adaptertype",
+# "networkid": "$networkid",
+
+# Description:
+# Create a network adapter.

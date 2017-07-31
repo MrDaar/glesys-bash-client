@@ -1,0 +1,10 @@
+# email/list
+
+domainname=""
+
+# Optional arguments:
+# filter=""
+
+# Description:
+# Gets a list of all accounts and aliases of a domain with full details
+# It is also

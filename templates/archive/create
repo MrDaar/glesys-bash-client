@@ -1,0 +1,15 @@
+# archive/create
+
+cat << EOF
+{
+    "username": "$username",
+    "password": "$password",
+    "size": "$size"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Create a new backup volume
+# Size is in gigabytes.

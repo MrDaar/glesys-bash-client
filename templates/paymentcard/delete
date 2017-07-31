@@ -1,0 +1,12 @@
+# paymentcard/delete
+
+cat << EOF
+{
+    "paymentcardid": "$paymentcardid"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Remove a paymentcard from GleSYS systems.

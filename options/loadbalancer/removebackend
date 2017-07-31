@@ -1,0 +1,9 @@
+# loadbalancer/removebackend
+
+loadbalancerid=""
+backendname=""
+
+# No optional arguments for this request.
+
+# Description:
+# Remove a specified backend.

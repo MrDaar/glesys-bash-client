@@ -1,0 +1,11 @@
+# paymentcard/list
+
+cat << EOF
+{}
+EOF
+
+# Optional arguments:
+# "customernumber": "$customernumber",
+
+# Description:
+# List paymentcards.

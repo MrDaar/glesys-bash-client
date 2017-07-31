@@ -1,0 +1,9 @@
+# user/searchdata
+
+# No required arguments for this request.
+
+# No optional arguments for this request.
+
+# Description:
+# Get a dataset for service entites on the projects and organizations this user has access to
+# This dataset can be used for searches.

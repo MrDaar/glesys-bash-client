@@ -1,0 +1,13 @@
+# network/create
+
+cat << EOF
+{
+    "datacenter": "$datacenter",
+    "description": "$description"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Create a network

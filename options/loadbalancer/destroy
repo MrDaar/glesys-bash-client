@@ -1,0 +1,9 @@
+# loadbalancer/destroy
+
+loadbalancerid=""
+keepip=""
+
+# No optional arguments for this request.
+
+# Description:
+# Completly destroys a specified loadbalancer instance

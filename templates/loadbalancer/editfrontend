@@ -1,0 +1,17 @@
+# loadbalancer/editfrontend
+
+cat << EOF
+{
+    "loadbalancerid": "$loadbalancerid",
+    "frontendname": "$frontendname"
+}
+EOF
+
+# Optional arguments:
+# "sslcertificate": "$sslcertificate",
+# "port": "$port",
+# "maxconnections": "$maxconnections",
+# "clienttimeout": "$clienttimeout",
+
+# Description:
+# Edit a frontend on a loadbalancer.

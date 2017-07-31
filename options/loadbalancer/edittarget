@@ -1,0 +1,13 @@
+# loadbalancer/edittarget
+
+loadbalancerid=""
+backendname=""
+targetname=""
+
+# Optional arguments:
+# ipaddress=""
+# port=""
+# weight=""
+
+# Description:
+# Edit the options for the specified target.

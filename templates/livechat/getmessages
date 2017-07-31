@@ -1,0 +1,15 @@
+# livechat/getmessages
+
+cat << EOF
+{
+    "sessionid": "$sessionid",
+    "sessionkey": "$sessionkey"
+}
+EOF
+
+# Optional arguments:
+# "onlynew": "$onlynew",
+
+# Description:
+# Gets all messages in the current chat session
+# If you set the optional parameter

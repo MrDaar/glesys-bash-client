@@ -1,0 +1,14 @@
+# domain/renew
+
+cat << EOF
+{
+    "domainname": "$domainname",
+    "numyears": "$numyears"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Renew a domain
+# The domain has to be added to the account first by calling domain/add.

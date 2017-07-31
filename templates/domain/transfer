@@ -1,0 +1,29 @@
+# domain/transfer
+
+cat << EOF
+{
+    "domainname": "$domainname",
+    "authcode": "$authcode",
+    "email": "$email",
+    "firstname": "$firstname",
+    "lastname": "$lastname",
+    "organization": "$organization",
+    "organizationnumber": "$organizationnumber",
+    "address": "$address",
+    "city": "$city",
+    "zipcode": "$zipcode",
+    "country": "$country",
+    "phonenumber": "$phonenumber"
+}
+EOF
+
+# Optional arguments:
+# "fax": "$fax",
+# "numyears": "$numyears",
+
+# Description:
+# Transfer a domain to glesys
+# The domain has to be added to the account first by calling domain/add
+# Always send puny-coded domains to the api if you have international characters in it
+# The optional argument numyears decides how many years the domain in registered for
+# It defaults to the lowest number of years allowed for the tld.

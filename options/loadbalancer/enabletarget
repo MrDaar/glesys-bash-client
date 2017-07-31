@@ -1,0 +1,10 @@
+# loadbalancer/enabletarget
+
+loadbalancerid=""
+backendname=""
+targetname=""
+
+# No optional arguments for this request.
+
+# Description:
+# Enables specified target.

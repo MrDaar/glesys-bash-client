@@ -1,0 +1,13 @@
+# ip/listown
+
+# No required arguments for this request.
+
+# Optional arguments:
+# used=""
+# serverid=""
+# ipversion=""
+# datacenter=""
+# platform=""
+
+# Description:
+# List all ip addresses that are reserved

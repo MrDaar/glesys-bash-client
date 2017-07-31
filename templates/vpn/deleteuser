@@ -1,0 +1,12 @@
+# vpn/deleteuser
+
+cat << EOF
+{
+    "username": "$username"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# lete a vpn-user from this account.

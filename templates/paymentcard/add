@@ -1,0 +1,14 @@
+# paymentcard/add
+
+cat << EOF
+{
+    "description": "$description",
+    "language": "$language"
+}
+EOF
+
+# Optional arguments:
+# "customernumber": "$customernumber",
+
+# Description:
+# Get an url that needs to be visited to add a new payment card.

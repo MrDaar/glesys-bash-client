@@ -1,0 +1,10 @@
+# archive/resize
+
+username=""
+size=""
+
+# No optional arguments for this request.
+
+# Description:
+# Resize an archive volume
+# It is only

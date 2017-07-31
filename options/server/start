@@ -1,0 +1,9 @@
+# server/start
+
+serverid=""
+
+# Optional arguments:
+# bios=""
+
+# Description:
+# Power up (boot) a server.

@@ -1,0 +1,12 @@
+# sshkey/remove
+
+cat << EOF
+{
+    "sshkeyids": "$sshkeyids"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Remove specified sshkey.

@@ -1,0 +1,10 @@
+# server/reboot
+
+serverid=""
+
+# Optional arguments:
+# transactionstarttime=""
+
+# Description:
+# Reboots a server
+# Does the same thing as server/stop with type set to reboot.

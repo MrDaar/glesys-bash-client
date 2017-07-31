@@ -1,0 +1,14 @@
+# ip/add
+
+cat << EOF
+{
+    "ipaddress": "$ipaddress"
+}
+EOF
+
+# Optional arguments:
+# "serverid": "$serverid",
+# "loadbalancerid": "$loadbalancerid",
+
+# Description:
+# Add an ip-adress to an server or loadbalancer.

@@ -1,0 +1,18 @@
+# loadbalancer/addfrontend
+
+cat << EOF
+{
+    "loadbalancerid": "$loadbalancerid",
+    "name": "$name",
+    "port": "$port",
+    "backendname": "$backendname"
+}
+EOF
+
+# Optional arguments:
+# "sslcertificate": "$sslcertificate",
+# "maxconnections": "$maxconnections",
+# "clienttimeout": "$clienttimeout",
+
+# Description:
+# Creates a frontend on specified loadbalancer.

@@ -1,0 +1,24 @@
+# domain/register
+
+domainname=""
+email=""
+firstname=""
+lastname=""
+organization=""
+organizationnumber=""
+address=""
+city=""
+zipcode=""
+country=""
+phonenumber=""
+
+# Optional arguments:
+# fax=""
+# numyears=""
+
+# Description:
+# Register a domain
+# The domain has to be added to the account first by calling domain/add
+# Always send puny-coded domains to the api if you have international characters in it
+# The optional argument numyears decides how many years the domain in registered for
+# It defaults to the lowest number of years allowed for the tld.

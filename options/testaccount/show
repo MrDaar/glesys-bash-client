@@ -1,0 +1,9 @@
+# testaccount/show
+
+# No required arguments for this request.
+
+# No optional arguments for this request.
+
+# Description:
+# Get information about the current users testaccount
+# Username is null if no testaccount has been created for this user.

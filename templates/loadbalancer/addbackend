@@ -1,0 +1,17 @@
+# loadbalancer/addbackend
+
+cat << EOF
+{
+    "loadbalancerid": "$loadbalancerid",
+    "name": "$name"
+}
+EOF
+
+# Optional arguments:
+# "mode": "$mode",
+# "stickysession": "$stickysession",
+# "connecttimeout": "$connecttimeout",
+# "responsetimeout": "$responsetimeout",
+
+# Description:
+# Creates a backend on specified loadbalancer.

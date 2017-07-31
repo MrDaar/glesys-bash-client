@@ -1,0 +1,12 @@
+# transaction/start
+
+cat << EOF
+{
+    "transactionid": "$transactionid"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Start a pending transaction immediately.

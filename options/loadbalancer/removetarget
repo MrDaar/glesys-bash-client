@@ -1,0 +1,10 @@
+# loadbalancer/removetarget
+
+loadbalancerid=""
+backendname=""
+name=""
+
+# No optional arguments for this request.
+
+# Description:
+# Removes specified target
