@@ -1,0 +1,8 @@
+# api/maintenance
+
+# No required arguments for this request.
+
+# No optional arguments for this request.
+
+# Description:
+# Get a list of GleSYS services that are in maintenance mode.

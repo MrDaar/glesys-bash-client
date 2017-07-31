@@ -1,0 +1,9 @@
+# domain/list
+
+# No required arguments for this request.
+
+# No optional arguments for this request.
+
+# Description:
+# Get a list of all domains on this account
+# The glesysnameserver-item in the returned

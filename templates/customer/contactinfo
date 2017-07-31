@@ -1,0 +1,25 @@
+# customer/contactinfo
+
+cat << EOF
+{}
+EOF
+
+# Optional arguments:
+# "companyname": "$companyname",
+# "contactperson": "$contactperson",
+# "invoicereference": "$invoicereference",
+# "address": "$address",
+# "zipcode": "$zipcode",
+# "city": "$city",
+# "country": "$country",
+# "nationalidnumber": "$nationalidnumber",
+# "phonenumber": "$phonenumber",
+# "email": "$email",
+# "invoiceaddress": "$invoiceaddress",
+# "invoicezipcode": "$invoicezipcode",
+# "invoicecity": "$invoicecity",
+# "invoicecountry": "$invoicecountry",
+# "separateinvoiceaddress": "$separateinvoiceaddress",
+
+# Description:
+# List and change contact and invoicing information about this customer.

@@ -1,0 +1,13 @@
+# network/edit
+
+cat << EOF
+{
+    "networkid": "$networkid"
+}
+EOF
+
+# Optional arguments:
+# "description": "$description",
+
+# Description:
+# Edit a network

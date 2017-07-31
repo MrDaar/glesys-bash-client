@@ -1,0 +1,18 @@
+# email/createaccount
+
+emailaccount=""
+password=""
+
+# Optional arguments:
+# antispamlevel=""
+# antivirus=""
+# autorespond=""
+# autorespondsaveemail=""
+# autorespondmessage=""
+# quota=""
+# rejectspam=""
+
+# Description:
+# Create an email account
+# Allowed values for antispam is 0-5
+# Set rejectspam to completely reject spam instead of just marking it as spam (defaults to false).

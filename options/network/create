@@ -1,0 +1,9 @@
+# network/create
+
+datacenter=""
+description=""
+
+# No optional arguments for this request.
+
+# Description:
+# Create a network

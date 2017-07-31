@@ -1,0 +1,15 @@
+# ip/listown
+
+cat << EOF
+{}
+EOF
+
+# Optional arguments:
+# "used": "$used",
+# "serverid": "$serverid",
+# "ipversion": "$ipversion",
+# "datacenter": "$datacenter",
+# "platform": "$platform",
+
+# Description:
+# List all ip addresses that are reserved

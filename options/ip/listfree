@@ -1,0 +1,10 @@
+# ip/listfree
+
+ipversion=""
+datacenter=""
+platform=""
+
+# No optional arguments for this request.
+
+# Description:
+# Get a list of all ip adresses that are

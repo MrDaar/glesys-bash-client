@@ -1,0 +1,13 @@
+# server/start
+
+cat << EOF
+{
+    "serverid": "$serverid"
+}
+EOF
+
+# Optional arguments:
+# "bios": "$bios",
+
+# Description:
+# Power up (boot) a server.

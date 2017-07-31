@@ -1,0 +1,9 @@
+# sshkey/add
+
+sshkey=""
+description=""
+
+# No optional arguments for this request.
+
+# Description:
+# Add public sshkey to your account which can be used when deploying new servers.

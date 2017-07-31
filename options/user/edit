@@ -1,0 +1,9 @@
+# user/edit
+
+# No required arguments for this request.
+
+# Optional arguments:
+# name=""
+
+# Description:
+# Update information about the current user.

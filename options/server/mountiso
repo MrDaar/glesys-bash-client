@@ -1,0 +1,10 @@
+# server/mountiso
+
+serverid=""
+
+# Optional arguments:
+# isofile=""
+
+# Description:
+# Mount one of the isos listed in server/listiso on a virtual machine
+# This currently only supports vmware-servers.

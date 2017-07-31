@@ -1,0 +1,22 @@
+# email/createaccount
+
+cat << EOF
+{
+    "emailaccount": "$emailaccount",
+    "password": "$password"
+}
+EOF
+
+# Optional arguments:
+# "antispamlevel": "$antispamlevel",
+# "antivirus": "$antivirus",
+# "autorespond": "$autorespond",
+# "autorespondsaveemail": "$autorespondsaveemail",
+# "autorespondmessage": "$autorespondmessage",
+# "quota": "$quota",
+# "rejectspam": "$rejectspam",
+
+# Description:
+# Create an email account
+# Allowed values for antispam is 0-5
+# Set rejectspam to completely reject spam instead of just marking it as spam (defaults to false).

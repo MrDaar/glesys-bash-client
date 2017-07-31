@@ -1,0 +1,15 @@
+# paymentcard/edit
+
+cat << EOF
+{
+    "paymentcardid": "$paymentcardid"
+}
+EOF
+
+# Optional arguments:
+# "description": "$description",
+# "sort": "$sort",
+# "autodebit": "$autodebit",
+
+# Description:
+# Edit the description, autodebit and sort of an payment card.

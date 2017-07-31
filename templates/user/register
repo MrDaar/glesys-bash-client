@@ -1,0 +1,15 @@
+# user/register
+
+cat << EOF
+{
+    "name": "$name",
+    "username": "$username",
+    "password": "$password"
+}
+EOF
+
+# Optional arguments:
+# "personalid": "$personalid",
+
+# Description:
+# Register a new user.

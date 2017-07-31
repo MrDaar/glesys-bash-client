@@ -1,0 +1,10 @@
+# domain/pricelist
+
+cat << EOF
+{}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# List all prices for all operations (registrations, transfers etc) for all TLDs supported by GleSYS.

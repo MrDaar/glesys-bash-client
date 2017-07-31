@@ -1,0 +1,9 @@
+# loadbalancer/removefromblacklist
+
+loadbalancerid=""
+prefix=""
+
+# No optional arguments for this request.
+
+# Description:
+# Removed an ip or prefix from loadbalancer blacklist

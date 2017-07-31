@@ -1,0 +1,13 @@
+# loadbalancer/edit
+
+cat << EOF
+{
+    "loadbalancerid": "$loadbalancerid"
+}
+EOF
+
+# Optional arguments:
+# "name": "$name",
+
+# Description:
+# Edit a loadbalancer

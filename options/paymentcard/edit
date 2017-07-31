@@ -1,0 +1,11 @@
+# paymentcard/edit
+
+paymentcardid=""
+
+# Optional arguments:
+# description=""
+# sort=""
+# autodebit=""
+
+# Description:
+# Edit the description, autodebit and sort of an payment card.

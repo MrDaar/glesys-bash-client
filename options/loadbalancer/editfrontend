@@ -1,0 +1,13 @@
+# loadbalancer/editfrontend
+
+loadbalancerid=""
+frontendname=""
+
+# Optional arguments:
+# sslcertificate=""
+# port=""
+# maxconnections=""
+# clienttimeout=""
+
+# Description:
+# Edit a frontend on a loadbalancer.

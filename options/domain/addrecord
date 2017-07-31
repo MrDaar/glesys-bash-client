@@ -1,0 +1,12 @@
+# domain/addrecord
+
+domainname=""
+host=""
+type=""
+data=""
+
+# Optional arguments:
+# ttl=""
+
+# Description:
+# Adds a dns record to a domain

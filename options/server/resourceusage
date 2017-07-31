@@ -1,0 +1,10 @@
+# server/resourceusage
+
+serverid=""
+resource=""
+resolution=""
+
+# No optional arguments for this request.
+
+# Description:
+# Return resource usage over time for server.

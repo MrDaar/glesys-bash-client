@@ -1,0 +1,13 @@
+# loadbalancer/removefrontend
+
+cat << EOF
+{
+    "loadbalancerid": "$loadbalancerid",
+    "frontendname": "$frontendname"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Remove a specifed fronted.

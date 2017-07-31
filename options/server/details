@@ -1,0 +1,9 @@
+# server/details
+
+serverid=""
+
+# Optional arguments:
+# includestate=""
+
+# Description:
+# Get detailed information about a server such as hostname, hardware configuration (cpu, memory and disk), ip adresses, cost, transfer, os and more.

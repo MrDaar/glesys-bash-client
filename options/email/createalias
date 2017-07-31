@@ -1,0 +1,9 @@
+# email/createalias
+
+emailalias=""
+goto=""
+
+# No optional arguments for this request.
+
+# Description:
+# Create an email alias.

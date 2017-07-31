@@ -1,0 +1,9 @@
+# server/status
+
+serverid=""
+
+# Optional arguments:
+# statustype=""
+
+# Description:
+# Get status information about a server.

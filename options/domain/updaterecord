@@ -1,0 +1,12 @@
+# domain/updaterecord
+
+recordid=""
+
+# Optional arguments:
+# ttl=""
+# host=""
+# type=""
+# data=""
+
+# Description:
+# Update a records dns information

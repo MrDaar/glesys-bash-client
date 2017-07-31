@@ -1,0 +1,9 @@
+# customer/info
+
+# No required arguments for this request.
+
+# No optional arguments for this request.
+
+# Description:
+# Show basic information about the customer
+# This includes customernumber, contactinfo and sla-information.

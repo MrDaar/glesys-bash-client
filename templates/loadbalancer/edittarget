@@ -1,0 +1,17 @@
+# loadbalancer/edittarget
+
+cat << EOF
+{
+    "loadbalancerid": "$loadbalancerid",
+    "backendname": "$backendname",
+    "targetname": "$targetname"
+}
+EOF
+
+# Optional arguments:
+# "ipaddress": "$ipaddress",
+# "port": "$port",
+# "weight": "$weight",
+
+# Description:
+# Edit the options for the specified target.

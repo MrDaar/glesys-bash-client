@@ -1,0 +1,8 @@
+# transaction/start
+
+transactionid=""
+
+# No optional arguments for this request.
+
+# Description:
+# Start a pending transaction immediately.

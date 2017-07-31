@@ -1,0 +1,14 @@
+# vpn/createuser
+
+cat << EOF
+{
+    "username": "$username",
+    "password": "$password"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Create a new vpn-user
+# Usernames has to be prefixed with your accountname, ex: clxxxxx_vpnuser.

@@ -1,0 +1,9 @@
+# user/addphonenumber
+
+phonenumber=""
+
+# Optional arguments:
+# description=""
+
+# Description:
+# Add a phonenumber to the user.

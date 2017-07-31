@@ -1,0 +1,10 @@
+# paymentcard/add
+
+description=""
+language=""
+
+# Optional arguments:
+# customernumber=""
+
+# Description:
+# Get an url that needs to be visited to add a new payment card.

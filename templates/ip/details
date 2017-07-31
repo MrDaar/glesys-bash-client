@@ -1,0 +1,12 @@
+# ip/details
+
+cat << EOF
+{
+    "ipaddress": "$ipaddress"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Get detailed information about an

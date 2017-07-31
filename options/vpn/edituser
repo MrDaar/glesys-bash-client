@@ -1,0 +1,10 @@
+# vpn/edituser
+
+username=""
+
+# Optional arguments:
+# password=""
+# enabled=""
+
+# Description:
+# Enable/disable and change password for an vpn-user.

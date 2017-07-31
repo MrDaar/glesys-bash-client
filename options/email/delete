@@ -1,0 +1,8 @@
+# email/delete
+
+email=""
+
+# No optional arguments for this request.
+
+# Description:
+# lete an email-account or alias.

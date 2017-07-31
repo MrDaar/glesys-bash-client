@@ -1,0 +1,11 @@
+# loadbalancer/addcertificate
+
+loadbalancerid=""
+certificatename=""
+certificate=""
+
+# No optional arguments for this request.
+
+# Description:
+# Add ssl certficate to loadbalancer instance
+# certificate should be a

@@ -1,0 +1,12 @@
+# invoice/billingperiod
+
+cat << EOF
+{}
+EOF
+
+# Optional arguments:
+# "account": "$account",
+# "interval": "$interval",
+
+# Description:
+# Change the billing period of this account or another account on this customer.

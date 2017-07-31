@@ -1,0 +1,10 @@
+# server/backup
+
+serverid=""
+enabled=""
+
+# No optional arguments for this request.
+
+# Description:
+# Enable or disable backup for a server
+# Currently only supported for VMWare servers.

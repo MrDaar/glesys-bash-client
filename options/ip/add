@@ -1,0 +1,10 @@
+# ip/add
+
+ipaddress=""
+
+# Optional arguments:
+# serverid=""
+# loadbalancerid=""
+
+# Description:
+# Add an ip-adress to an server or loadbalancer.

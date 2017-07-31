@@ -1,0 +1,11 @@
+# account/info
+
+cat << EOF
+{}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Provides information about the currently logged in account
+# PLEASE NOTE: maxnumemailaccount has been deprecated in favor of maxnumemailaccounts.

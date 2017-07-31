@@ -1,0 +1,9 @@
+# loadbalancer/removefrontend
+
+loadbalancerid=""
+frontendname=""
+
+# No optional arguments for this request.
+
+# Description:
+# Remove a specifed fronted.

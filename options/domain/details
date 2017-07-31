@@ -1,0 +1,9 @@
+# domain/details
+
+domainname=""
+
+# No optional arguments for this request.
+
+# Description:
+# Gets detailed information about this domain
+# This is basically the information available in the domains SOA-record.

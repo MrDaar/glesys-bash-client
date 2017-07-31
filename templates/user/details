@@ -1,0 +1,11 @@
+# user/details
+
+cat << EOF
+{}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Get information about the currently logged in user
+# Username, name, twofactor method and more.

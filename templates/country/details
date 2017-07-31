@@ -1,0 +1,12 @@
+# country/details
+
+cat << EOF
+{
+    "iso": "$iso"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Fetch info about a specific country identified by the ISO 3166-1 alpha2 code.

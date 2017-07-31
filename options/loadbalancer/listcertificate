@@ -1,0 +1,8 @@
+# loadbalancer/listcertificate
+
+loadbalancerid=""
+
+# No optional arguments for this request.
+
+# Description:
+# List certificate attached to an loadbalancer instance.

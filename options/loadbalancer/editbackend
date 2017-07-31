@@ -1,0 +1,13 @@
+# loadbalancer/editbackend
+
+loadbalancerid=""
+backendname=""
+
+# Optional arguments:
+# mode=""
+# stickysession=""
+# connecttimeout=""
+# responsetimeout=""
+
+# Description:
+# Edit a frontend on a loadbalancer.

@@ -1,0 +1,13 @@
+# email/createalias
+
+cat << EOF
+{
+    "emailalias": "$emailalias",
+    "goto": "$goto"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Create an email alias.

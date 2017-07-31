@@ -1,0 +1,11 @@
+# user/login
+
+username=""
+password=""
+
+# Optional arguments:
+# otp=""
+# ip=""
+
+# Description:
+# This function is used to login with an username and password.

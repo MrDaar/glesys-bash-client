@@ -1,0 +1,14 @@
+# loadbalancer/addfrontend
+
+loadbalancerid=""
+name=""
+port=""
+backendname=""
+
+# Optional arguments:
+# sslcertificate=""
+# maxconnections=""
+# clienttimeout=""
+
+# Description:
+# Creates a frontend on specified loadbalancer.

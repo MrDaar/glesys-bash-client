@@ -1,0 +1,8 @@
+# server/costs
+
+serverid=""
+
+# No optional arguments for this request.
+
+# Description:
+# List all costs for this server such as cpu-, memory-, license- and managed hosting-costs and more.

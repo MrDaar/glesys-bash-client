@@ -1,0 +1,9 @@
+# paymentcard/list
+
+# No required arguments for this request.
+
+# Optional arguments:
+# customernumber=""
+
+# Description:
+# List paymentcards.

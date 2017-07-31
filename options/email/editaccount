@@ -1,0 +1,16 @@
+# email/editaccount
+
+emailaccount=""
+
+# Optional arguments:
+# antispamlevel=""
+# antivirus=""
+# password=""
+# autorespond=""
+# autorespondsaveemail=""
+# autorespondmessage=""
+# quota=""
+# rejectspam=""
+
+# Description:
+# Edit an email account and change things like quota, password, autoresponse and antispam level.

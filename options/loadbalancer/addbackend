@@ -1,0 +1,13 @@
+# loadbalancer/addbackend
+
+loadbalancerid=""
+name=""
+
+# Optional arguments:
+# mode=""
+# stickysession=""
+# connecttimeout=""
+# responsetimeout=""
+
+# Description:
+# Creates a backend on specified loadbalancer.

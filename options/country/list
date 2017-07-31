@@ -1,0 +1,10 @@
+# country/list
+
+# No required arguments for this request.
+
+# Optional arguments:
+# eumembers=""
+
+# Description:
+# Fetch a list of all known countries and territories
+# Optional boolean

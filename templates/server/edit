@@ -1,0 +1,19 @@
+# server/edit
+
+cat << EOF
+{
+    "serverid": "$serverid"
+}
+EOF
+
+# Optional arguments:
+# "disksize": "$disksize",
+# "memorysize": "$memorysize",
+# "cpucores": "$cpucores",
+# "transfer": "$transfer",
+# "hostname": "$hostname",
+# "description": "$description",
+# "bandwidth": "$bandwidth",
+
+# Description:
+# Edit the configuration of a server.

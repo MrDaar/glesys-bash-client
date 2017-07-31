@@ -1,0 +1,11 @@
+# server/allowedarguments
+
+cat << EOF
+{}
+EOF
+
+# Optional arguments:
+# "serverid": "$serverid",
+
+# Description:
+# Lists the allowed arguments for some

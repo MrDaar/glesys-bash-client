@@ -1,0 +1,10 @@
+# domain/renew
+
+domainname=""
+numyears=""
+
+# No optional arguments for this request.
+
+# Description:
+# Renew a domain
+# The domain has to be added to the account first by calling domain/add.

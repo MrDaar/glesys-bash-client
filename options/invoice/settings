@@ -1,0 +1,12 @@
+# invoice/settings
+
+# No required arguments for this request.
+
+# Optional arguments:
+# invoicemethod=""
+# invoiceemailaddress=""
+# vatnumber=""
+# paymentdays=""
+
+# Description:
+# Change invoice method and invoice email address.

@@ -1,0 +1,13 @@
+# loadbalancer/addtarget
+
+loadbalancerid=""
+backendname=""
+ipaddress=""
+port=""
+name=""
+weight=""
+
+# No optional arguments for this request.
+
+# Description:
+# Creates as target which will represent one of the servers related

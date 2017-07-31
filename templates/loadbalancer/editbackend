@@ -1,0 +1,17 @@
+# loadbalancer/editbackend
+
+cat << EOF
+{
+    "loadbalancerid": "$loadbalancerid",
+    "backendname": "$backendname"
+}
+EOF
+
+# Optional arguments:
+# "mode": "$mode",
+# "stickysession": "$stickysession",
+# "connecttimeout": "$connecttimeout",
+# "responsetimeout": "$responsetimeout",
+
+# Description:
+# Edit a frontend on a loadbalancer.

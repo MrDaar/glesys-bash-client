@@ -1,0 +1,12 @@
+# transaction/cancel
+
+cat << EOF
+{
+    "transactionid": "$transactionid"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Cancel a pending transaction.

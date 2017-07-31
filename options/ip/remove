@@ -1,0 +1,10 @@
+# ip/remove
+
+ipaddress=""
+
+# Optional arguments:
+# release=""
+
+# Description:
+# Remove an ip from a server
+# This does not

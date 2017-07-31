@@ -1,0 +1,13 @@
+# server/status
+
+cat << EOF
+{
+    "serverid": "$serverid"
+}
+EOF
+
+# Optional arguments:
+# "statustype": "$statustype",
+
+# Description:
+# Get status information about a server.

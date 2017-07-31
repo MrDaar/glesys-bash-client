@@ -1,0 +1,9 @@
+# loadbalancer/edit
+
+loadbalancerid=""
+
+# Optional arguments:
+# name=""
+
+# Description:
+# Edit a loadbalancer

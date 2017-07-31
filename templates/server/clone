@@ -1,0 +1,20 @@
+# server/clone
+
+cat << EOF
+{
+    "serverid": "$serverid",
+    "hostname": "$hostname"
+}
+EOF
+
+# Optional arguments:
+# "disksize": "$disksize",
+# "memorysize": "$memorysize",
+# "cpucores": "$cpucores",
+# "transfer": "$transfer",
+# "bandwidth": "$bandwidth",
+# "description": "$description",
+# "datacenter": "$datacenter",
+
+# Description:
+# Create an copy (clone) of another server.

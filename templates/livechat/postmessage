@@ -1,0 +1,14 @@
+# livechat/postmessage
+
+cat << EOF
+{
+    "sessionid": "$sessionid",
+    "sessionkey": "$sessionkey",
+    "message": "$message"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Posts a message to the current session.

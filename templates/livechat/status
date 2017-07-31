@@ -1,0 +1,10 @@
+# livechat/status
+
+cat << EOF
+{}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Get information about if the livechat is opened or closed.

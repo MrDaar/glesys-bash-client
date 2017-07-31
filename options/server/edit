@@ -1,0 +1,15 @@
+# server/edit
+
+serverid=""
+
+# Optional arguments:
+# disksize=""
+# memorysize=""
+# cpucores=""
+# transfer=""
+# hostname=""
+# description=""
+# bandwidth=""
+
+# Description:
+# Edit the configuration of a server.

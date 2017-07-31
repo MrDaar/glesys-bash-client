@@ -1,0 +1,13 @@
+# user/addphonenumber
+
+cat << EOF
+{
+    "phonenumber": "$phonenumber"
+}
+EOF
+
+# Optional arguments:
+# "description": "$description",
+
+# Description:
+# Add a phonenumber to the user.

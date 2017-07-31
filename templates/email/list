@@ -1,0 +1,14 @@
+# email/list
+
+cat << EOF
+{
+    "domainname": "$domainname"
+}
+EOF
+
+# Optional arguments:
+# "filter": "$filter",
+
+# Description:
+# Gets a list of all accounts and aliases of a domain with full details
+# It is also

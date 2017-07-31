@@ -1,0 +1,9 @@
+# archive/delete
+
+username=""
+
+# No optional arguments for this request.
+
+# Description:
+# lete a archive volume
+# All files on the volume are permanently destroyed.

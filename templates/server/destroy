@@ -1,0 +1,13 @@
+# server/destroy
+
+cat << EOF
+{
+    "serverid": "$serverid",
+    "keepip": "$keepip"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# y a server and remove all files

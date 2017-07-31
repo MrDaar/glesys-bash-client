@@ -1,0 +1,13 @@
+# email/globalquota
+
+cat << EOF
+{}
+EOF
+
+# Optional arguments:
+# "globalquota": "$globalquota",
+
+# Description:
+# Enables the user to set and get the global quota
+# The global quota is the total amount of space that is allowed to be allocated to email accounts
+# The globalquota argument should be in MB.

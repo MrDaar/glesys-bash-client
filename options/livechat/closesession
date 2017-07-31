@@ -1,0 +1,9 @@
+# livechat/closesession
+
+sessionid=""
+sessionkey=""
+
+# No optional arguments for this request.
+
+# Description:
+# Closes the current session.

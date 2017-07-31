@@ -1,0 +1,16 @@
+# domain/addrecord
+
+cat << EOF
+{
+    "domainname": "$domainname",
+    "host": "$host",
+    "type": "$type",
+    "data": "$data"
+}
+EOF
+
+# Optional arguments:
+# "ttl": "$ttl",
+
+# Description:
+# Adds a dns record to a domain

@@ -1,0 +1,9 @@
+# domain/setautorenew
+
+domainname=""
+autorenew=""
+
+# No optional arguments for this request.
+
+# Description:
+# Activate/deactivate autorenewal for a domain.

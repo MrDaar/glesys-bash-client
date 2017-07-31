@@ -1,0 +1,10 @@
+# domain/allowedarguments
+
+cat << EOF
+{}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Lists the allowed arguments for some

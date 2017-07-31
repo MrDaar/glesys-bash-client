@@ -1,0 +1,12 @@
+# transaction/acknowledge
+
+cat << EOF
+{
+    "transactionid": "$transactionid"
+}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Acknowledges the failed transaction, which will stop the alerts of it.

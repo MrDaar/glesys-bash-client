@@ -1,0 +1,16 @@
+# domain/updaterecord
+
+cat << EOF
+{
+    "recordid": "$recordid"
+}
+EOF
+
+# Optional arguments:
+# "ttl": "$ttl",
+# "host": "$host",
+# "type": "$type",
+# "data": "$data",
+
+# Description:
+# Update a records dns information

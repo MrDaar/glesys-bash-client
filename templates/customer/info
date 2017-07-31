@@ -1,0 +1,11 @@
+# customer/info
+
+cat << EOF
+{}
+EOF
+
+# No optional arguments for this request.
+
+# Description:
+# Show basic information about the customer
+# This includes customernumber, contactinfo and sla-information.

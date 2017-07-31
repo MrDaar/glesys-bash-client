@@ -1,0 +1,11 @@
+# user/register
+
+name=""
+username=""
+password=""
+
+# Optional arguments:
+# personalid=""
+
+# Description:
+# Register a new user.
