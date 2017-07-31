@@ -3,7 +3,7 @@
 ## Instructions
 - Set config in `./config`
 - Template path is not required, you can use the default ones.
-- Options path will be required, so you can customize your requests: i.e. `./glesys send server/create ./custom/options/server/create-medium-8core-projectX`
+- Options path will be required, so you can customize your requests: i.e. `./glesys send server/create ~/glesys/options/server/create-medium-8core-projectX`
 - Both will be inferred based on the url parameter if omitted.
 - `Are you sure? [Y/n]:` Bypassed by adding a `Y` as the 5th parameter.
 
