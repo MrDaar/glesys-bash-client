@@ -12,8 +12,8 @@ main()
 
     __dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
     __file="${__dir}/$(basename "${BASH_SOURCE[0]}")"
-    __base="$(basename ${__file} .sh)"
-    __root="$(cd "$(dirname "${__dir}")" && pwd)"
+#    __base="$(basename ${__file} .sh)"
+#    __root="$(cd "$(dirname "${__dir}")" && pwd)"
 
     show_error()
     {(
@@ -63,6 +63,7 @@ EOF
 
     # overridden by any variables set in options
     # good for SSH key, etc.
+    # shellcheck source=config.example
     source "${__dir}/config"
 
     if [[ $action != "help" && ! $url ]]; then
@@ -108,7 +109,7 @@ EOF
                     -k --basic \
                     -u $api_auth \
                     -d "$api_post_data" \
-                    $api_base_url$url
+                    "$api_base_url$url"
                 echo
             else
                 echo 'Request aborted.'
@@ -118,7 +119,7 @@ EOF
             if [[ ! $url ]]; then
                 show_help
             else
-                show_url_help $action $url
+                show_url_help "$action" "$url"
             fi
             ;;
         *)
