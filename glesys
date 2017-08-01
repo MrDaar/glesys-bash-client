@@ -78,10 +78,10 @@ EOF
             template="${__dir}/templates/$url"
         fi
 
-        if [ -f $options ]; then
+        if [[ -f $options ]]; then
             source "$options"
         fi
-        if [ -f $template ]; then
+        if [[ -f $template ]]; then
             api_post_data="$(source "$template")"
         fi
     fi
