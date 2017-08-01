@@ -63,6 +63,7 @@ EOF
 
     # overridden by any variables set in options
     # good for SSH key, etc.
+    # shellcheck source=config.example
     source "${__dir}/config"
 
     if [[ $action != "help" && ! $url ]]; then
