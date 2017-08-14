@@ -1,3 +1,4 @@
+# Required to interact with API:
 api_base_url="https://api.glesys.com/"
 api_user="CL_____"
 api_key="XxxXXXXXxxxxxXxXXxxXXXXxxxxXXxxXx"

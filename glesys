@@ -28,8 +28,6 @@ main()
                    ----------------------
                      Glesys Bash Client
                    ----------------------
-NOTICE: Set config in ./config
-
 - Template path is not required, you can use the default ones.
 - Options path will be required, so you can customize your requests:
 - i.e. ./glesys send server/create ./custom-options/server/create-medium-8core-projectX
@@ -54,17 +52,23 @@ example: ./glesys $action $url $options $template
 EOF
     }
 
+    # overridden by any variables set in options
+    # good for SSH key, etc.
+    # shellcheck source=config.example
+    config_path="${__dir}/config"
+
+    if [[ -f $config_path ]]; then
+        source "$config_path"
+    else
+        show_error "Please set config in ${__dir}/config (see config.example)"
+    fi
+
     action="${1}"
     url="${2}"
     options="${3}"
     template="${4}"
     are_you_sure="${5}"
     api_post_data='{}'
-
-    # overridden by any variables set in options
-    # good for SSH key, etc.
-    # shellcheck source=config.example
-    source "${__dir}/config"
 
     if [[ $action != "help" && ! $url ]]; then
         show_error 'Second parameter is required.'
